@@ -5,7 +5,7 @@ Embed yourself in the very fabric of the web.
 
 Human Headers is a project to let developers put a little more of themselves into their work without visibly impacting the web.
 
-This proof of concept was conceived in a couple hours on the morning of February 5th, 2013 after visiting a website and simply wondering: "Who made this?"
+This proof of concept was conceived in a couple hours on the morning of February 5th, 2014 after visiting a website and simply wondering: "Who made this?"
 
 Suggested headers:
 
