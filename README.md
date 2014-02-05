@@ -12,7 +12,9 @@ Suggested headers:
 * X-Human-Github: randomdrake
 * X-Human-Hiring: http://example.com/hiring
 
-Download and install one of the browser extensions to start seeing Human Headers when you browse the web.
+Download and install one of the browser extensions to start seeing Human Headers when you browse the web. Or, use the source here to package your own extension and use it.
+
+Chrome: https://chrome.google.com/webstore/detail/human-headers/jnjopooefgenmbmfcapkncinekgmpohc
 
 http://www.humanheaders.org
 
