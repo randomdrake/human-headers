@@ -18,7 +18,7 @@ Download and install one of the browser extensions to start seeing Human Headers
 
 Chrome: https://chrome.google.com/webstore/detail/human-headers/jnjopooefgenmbmfcapkncinekgmpohc
 
-http://www.humanheaders.org
+With a browser extension installed, visit http://www.humanheaders.org for an example.
 
 
 
